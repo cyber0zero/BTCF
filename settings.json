@@ -1,7 +1,7 @@
 {
-    "log":"Enter Discord Webhook",
-    "error":"Enter Discord-Webhook",
-    "success":"Enter Discord-Webhook",
+    "log":"https://discord.com/api/webhooks/1071872196378628157/Owhi7bBRaQdc5NVhNopSaudsk1vLkAj3nTKnpJ98DK8TI9KueDUBKXoR1jkeyXGUUoqq",
+    "error":"https://discord.com/api/webhooks/1071872115847987303/OGXWtf9dBlG_J7GWzpllJMi8tgUxMafMhDLpXAL-mX01jGhlsG-WcNYE57nRdJYvuHhB",
+    "success":"https://discord.com/api/webhooks/1071871328795246752/z8kTv7iy-OBEMI8yDMWYUWEspJm9pMluZdoYsIm_-B3RLjsxk7bifQPxEHt6ohRKsq_C",
     "logColor":"f2902b",
     "errorColor":"ff2121",
     "sucessColor":"4BB543",
